@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+# Seismigraphix sesimic 
+## viewer downloads
 
-You can use the [editor on GitHub](https://github.com/abelsurace/seismigraphix/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+To run your SeismiGraphix installation open a terminal in Linux and in Windows open the command prompt, then go to the folder where you have your downloaded file and type this command :
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+java -jar  "seismigraphix_setup-v140.jar"
 
-### Markdown
+For Windows you can also just simply double click on the "seismigraphix_setup.jar" file, and the installation wizard should start.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+For Mac Os X  the zip file containing the app file will be downloaded; after unzipping the file you can move the app package to your applications folder, you will need writing permissions to the Applications folder and you might also need to change some security settings to allow running this application as is not yet certified by apple but you should not have any problems as this application is absolutely safe . Once the app package is in the applications folder you will see the coffee bean icon in the launcher.
 
-```markdown
-Syntax highlighted code block
+This is the 1.4.0 release of SeismiGraphix Decaf, new features and developments will become available in the future. Please come regularly to this site to check for new improvements or register to receive a news letter as changes are available, also SeismiGraphix will check for updates on every start and notify you as they become available. Again thank you for support, for downloading SeismiGraphix and welcome to the SeismiGraphix users group. If you have any comments or suggestions please check the contact page for details.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+[Downloads](url)
 ```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/abelsurace/seismigraphix/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
