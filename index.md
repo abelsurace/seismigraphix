@@ -1,5 +1,5 @@
-# Seismigraphix sesimic 
-## viewer downloads
+# Seismigraphix 
+## sesimic viewer
 
 To run your SeismiGraphix installation open a terminal in Linux and in Windows open the command prompt, then go to the folder where you have your downloaded file and type this command :
 
@@ -11,6 +11,7 @@ For Mac Os X  the zip file containing the app file will be downloaded; after unz
 
 This is the 1.4.0 release of SeismiGraphix Decaf, new features and developments will become available in the future. Please come regularly to this site to check for new improvements or register to receive a news letter as changes are available, also SeismiGraphix will check for updates on every start and notify you as they become available. Again thank you for support, for downloading SeismiGraphix and welcome to the SeismiGraphix users group. If you have any comments or suggestions please check the contact page for details.
 
+## Downloads
 
 [Downloads](url)
 ```
